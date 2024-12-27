@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Desktop\\Project\\Tamrin 5 Algoritm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C15BCDEE-853B-4CD3-94D4-0C2ECE7DE6DE}|Tamrin 5 Algoritm\\Tamrin 5 Algoritm.csproj|c:\\users\\ahmad\\desktop\\project\\tamrin 5 algoritm\\tamrin 5 algoritm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15BCDEE-853B-4CD3-94D4-0C2ECE7DE6DE}|Tamrin 5 Algoritm\\Tamrin 5 Algoritm.csproj|solutionrelative:tamrin 5 algoritm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Project\\Tamrin 5 Algoritm\\Tamrin 5 Algoritm\\Program.cs",
+              "RelativeDocumentMoniker": "Tamrin 5 Algoritm\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Project\\Tamrin 5 Algoritm\\Tamrin 5 Algoritm\\Program.cs",
+              "RelativeToolTip": "Tamrin 5 Algoritm\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T17:16:01.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

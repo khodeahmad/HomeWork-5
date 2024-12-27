@@ -1,0 +1,7 @@
+C:\Users\Ahmad\Desktop\Project\Tamrin 5 Algoritm\Tamrin 5 Algoritm\bin\Debug\Tamrin 5 Algoritm.exe.config
+C:\Users\Ahmad\Desktop\Project\Tamrin 5 Algoritm\Tamrin 5 Algoritm\bin\Debug\Tamrin 5 Algoritm.exe
+C:\Users\Ahmad\Desktop\Project\Tamrin 5 Algoritm\Tamrin 5 Algoritm\bin\Debug\Tamrin 5 Algoritm.pdb
+C:\Users\Ahmad\Desktop\Project\Tamrin 5 Algoritm\Tamrin 5 Algoritm\obj\Debug\Tamrin 5 Algoritm.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\Project\Tamrin 5 Algoritm\Tamrin 5 Algoritm\obj\Debug\Tamrin 5 Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Project\Tamrin 5 Algoritm\Tamrin 5 Algoritm\obj\Debug\Tamrin 5 Algoritm.exe
+C:\Users\Ahmad\Desktop\Project\Tamrin 5 Algoritm\Tamrin 5 Algoritm\obj\Debug\Tamrin 5 Algoritm.pdb
